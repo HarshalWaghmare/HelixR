@@ -1,10 +1,10 @@
 # HelixR
  INSERTING PROGRAMMING BASED MEMES
-<<<<<<< HEAD
+***
  
 ![coding memes](/programmer-memes_md.jpg "costube meme").
 
-=======
+
 ***
 ![Memes](/images.jpeg "Rashmis meme").
 
