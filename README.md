@@ -1,5 +1,5 @@
 # HelixR
  INSERTING PROGRAMMING BASED MEMES
- "./programmer-memes_md.jpg"
-
+ 
+![coding memes](/programmer-memes_md.jpg "costube meme").
 
